@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Build/package output
+build/
+dist/
+*.egg-info/
+*.zip
+*.tar
+*.tar.gz
+
+# Runtime state and databases
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.log
+*.pid
+state/
+runtime/
+backups/
+diagnostics/
+
+# VEIL-generated credentials / provisioning state
+bootstrap.secret
+provision-ap.password
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Local/editor/OS
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
