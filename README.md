@@ -25,7 +25,7 @@ Current capabilities include:
 
 Coming Features:
 - **Multi-antenna switching and band routing** with support for four antenna ports and automatic routing by frequency/service.
-- **Multi-node signal triangulation
+- **Multi-node triangulation** to find the estimated location of a signal.
 
 ## Hardware / platform
 
