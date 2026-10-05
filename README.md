@@ -13,7 +13,6 @@ Current capabilities include:
 - **Standalone WebUI** for node configuration, monitoring, service control, messages, recovery, and administration.
 - **XTAK integration** for networked sensor use, live situational-awareness output, plugin/API access, and related XTAK workflows.
 - **Spectrum analyzer and waterfall** with signal selection, detected peaks, listening, and frequency identification.
-- **Multi-antenna switching and band routing** with support for four antenna ports and automatic routing by frequency/service.
 - **Analog radio monitoring** with user-created presets, favorites, groups, import/export workflows, and live audio monitoring.
 - **Managed nationwide receive channel groups** for FRS, GMRS, CB, MURS, and NOAA Weather.
 - **ADS-B** aircraft reception and live situational-awareness output.
@@ -23,6 +22,10 @@ Current capabilities include:
 - **Bluetooth audio** and browser monitoring support for compatible receive services.
 - **RF-to-mesh bridge foundation** for XTAK Voice integration.
 - **Network and Wi-Fi management**, provisioning mode, diagnostics, time synchronization, recovery actions, configuration snapshots, and an authenticated maintenance terminal.
+
+Coming Features:
+- **Multi-antenna switching and band routing** with support for four antenna ports and automatic routing by frequency/service.
+- **Multi-node signal triangulation
 
 ## Hardware / platform
 
