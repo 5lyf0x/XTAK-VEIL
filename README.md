@@ -1,6 +1,6 @@
 # XTAK VEIL
 
-**XTAK VEIL** is a Raspberry Pi-based SDR sensor platform and WebUI designed to operate either **standalone** or as part of the **XTAK environment**. It combines radio monitoring, spectrum analysis, multi-antenna management, message collection, and field-oriented sensor services in a single node.
+**XTAK VEIL** is a Raspberry Pi-based RECEIVE-ONLY SDR sensor platform and WebUI designed to operate either **standalone** or as part of the **XTAK environment**. It combines radio monitoring, spectrum analysis, multi-antenna management, message collection, and field-oriented sensor services in a single node.
 
 > **Beta software:** This repository contains the public beta source for **XTAK VEIL v0.4.0-r32**. VEIL is actively developed and some services depend on local RF activity, supported SDR hardware, external decoder projects, and site-specific configuration.
 
